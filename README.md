@@ -38,6 +38,10 @@ I am beginner C# Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/mysqlworkbench_103806.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/3389/PNG/512/c_sharp_icon_213045.png" alt="c#" width="40" height="40"/>&nbsp
+  <img src="" alt="" width="40" height="40"/>&nbsp
+  <img src="" alt="" width="40" height="40"/>&nbsp
+  <img src="" alt="" width="40" height="40"/>&nbsp
 </div>
 
 ---
