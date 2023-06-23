@@ -3,6 +3,10 @@
 
 ---
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 ### :man_technologist: About me:
 
 I am beginner C# Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.My way began after taking a Java course for schoolboys. At the same time I studied a lot of different programming languages and have for the most part, experience in game developing
