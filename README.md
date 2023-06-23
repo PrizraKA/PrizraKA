@@ -9,11 +9,11 @@ I am beginner C# Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 
-- :telescope: 1
+- :telescope: Project developer in Grand Theft Auto San Andreas Multiplayer
 
-- :seedling: 1
+- :seedling: Project developer in Arma 3
 
-- :zap: 1
+- :zap: Beginner C# developer
 
 ---
 
