@@ -38,10 +38,10 @@ I am beginner C# Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/mysqlworkbench_103806.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-  <img src="https://assets.ithillel.ua/images/icons/technologies/_transform_courseTechnologyIcon/CSharp.png" alt="c#" width="40" height="40"/>&nbsp
-  <img src="https://assets.ithillel.ua/images/icons/technologies/_transform_courseTechnologyIcon/SOLID.png" alt="solid" width="40" height="40"/>&nbsp
-  <img src="https://assets.ithillel.ua/images/icons/technologies/_transform_courseTechnologyIcon/Rest.png" alt="rest" width="40" height="40"/>&nbsp
-  <img src="https://assets.ithillel.ua/images/icons/technologies/_transform_courseTechnologyIcon/DotNetFramework.png" alt=".netFramework" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" alt="c#" width="40" height="40"/>&nbsp
+  <img src="" alt="solid" width="40" height="40"/>&nbsp
+  <img src="" alt="rest" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_plain_wordmark_logo_icon_146545.png" alt=".netFramework" width="40" height="40"/>&nbsp
 </div>
 
 ---
