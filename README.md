@@ -39,7 +39,6 @@ I am beginner C# Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" alt="c#" width="40" height="40"/>&nbsp
-  <img src="" alt="solid" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/dot_net_icon_138665.png" alt=".netCore" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_plain_wordmark_logo_icon_146545.png" alt=".netFramework" width="40" height="40"/>&nbsp
 </div>
