@@ -53,7 +53,7 @@ I am beginner C# Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/github_alt_macos_bigsur_icon_190138.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/617/PNG/96/social_media_logo_github_icon-icons.com_56662.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 
   
 </div>
