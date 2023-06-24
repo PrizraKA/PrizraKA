@@ -51,7 +51,7 @@ I am beginner C# Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <div>
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_macos_bigsur_icon_189958.png" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/584/PNG/96/play_youtube_video_media_playlist_vid_icon-icons.com_55213.png" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/617/PNG/96/social_media_logo_github_icon-icons.com_56662.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 
