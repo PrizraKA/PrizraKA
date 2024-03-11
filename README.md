@@ -15,7 +15,7 @@ I am beginner Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - :seedling: Project developer in Arma 3
 
 - :zap: Beginner C# developer
-- :panda_face: Beinner C++ developer
+- :panda_face: Beginner C++ developer
 
 ---
 
