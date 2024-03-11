@@ -73,7 +73,7 @@ I am beginner Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 |      | Certificates                                              | Date              | Link  | 
 |------|-----------------------------------------------------------| :---------------: |-------|
 | Java | Java Indrotucion for schoolboys                           | 2018              | <a href="https://lms.ithillel.ua/uploads/certificates/23488283_en.png?_gl=1*zn9d4e*_gcl_au*MTMxMjI3Mjg1OC4xNjg1MTMyOTAy*_ga*OTI2NzA5MjUxLjE2ODUxMzI5MDM.*_ga_KVGD0SKTQC*MTY4NzUyODczMi43LjEuMTY4NzUyOTI2NS4yNy4wLjA."><img src="https://cdn.icon-icons.com/icons2/1410/PNG/128/37_97266.png" width="40" height="40" alt="link group"/></a>
-| C#   | C# Basic                                                  | 2023              |       |
+| C#   | C# Basic                                                  | 2023              | <a href="https://certificate.ithillel.ua/view/34705839"><img src="https://cdn.icon-icons.com/icons2/1410/PNG/128/37_97266.png" width="40" height="40" alt="link group"/></a>
 | C#   | C# Pro                                                    | 2023              |       |
 | C++  | C++ Basic                                                 | 2024              |       | 
 
