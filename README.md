@@ -17,6 +17,8 @@ I am beginner Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - :zap: Beginner C# developer
 - :panda_face: Beginner C++ developer
 
+  My page needs a new breath, don't pay attention :)
+
 ---
 
 ### 🤝 Social Networks:
