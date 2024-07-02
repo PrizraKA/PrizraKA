@@ -21,4 +21,4 @@
 
 # 👀 About me 👀
 
-My name is Oleksandr and I beginner C++ and C# developer.
+My name is Oleksandr and I beginner C++ and C# developer. I like games and I like to delve into the technical part. My goal is to learn at a high level C++, Enforce Script and C# languages. With C++ and C# I want to create something in Unity or Unreal Engine, but Enforce Script will be useful for me at creating everything what connect with DayZ Development. I love it :)
