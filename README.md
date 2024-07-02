@@ -5,6 +5,12 @@
 
 - 🖥️ С++
 - 🖥️ C#
+- 🖥️ SQF
+- 🖥️ Enforce Script
 
 # 🕰️ Experience 🕰️
 
+- Arma 3 Development
+- GTA SAMP Development
+- Unity Development
+- DayZ Development/Modding/Scripting
